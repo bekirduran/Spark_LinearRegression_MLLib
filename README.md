@@ -3,4 +3,4 @@ This application estimates house prices with 400 data datasets via spark and mll
 
 
  # Application Screen Images 
-<img src=/src/main/ScreenShot/ss.PNG width="1100" height="800" >
+<img src=/src/main/ScreenShot/ss.PNG  >
